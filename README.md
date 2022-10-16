@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @manhtoolvnxyz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# LION - WHITE
+Lion-White Đang Trong Quá Trình Test
 
-<!---
-manhtoolvnxyz/manhtoolvnxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Scr Này Chỉ Hoạt Động Trên Google Shell 
+
+Lệnh :
+
+- - - - - - - - - - - - - - - - - - - - - - - - -
+
+git clone https://github.com/fuck0211/Lion-White/
+
+pip3 install colorama
+
+cd Lion-White
+
+python3 main_end.py
+
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+
+TOOL NÀY ANH EM TEST REQUESTS NÓ ĐÉO LÊN ĐÂU CỨ LẤY CAPCUT MAK TEST
+
+Anh Em DDoS Thì Cứ Ngồi Mak Load Từ Từ R DIE 
+
+Clip Test Tool (Sắp Có)
+
+
+
